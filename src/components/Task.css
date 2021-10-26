@@ -12,3 +12,13 @@
 .task-title {
     cursor: pointer;
 }
+
+.remove-task-button,
+.see-task-detail
+{
+    background-color: #444;
+    border: none;
+    font-size: 22px;
+    color: chartreuse;
+    cursor: pointer;
+}
