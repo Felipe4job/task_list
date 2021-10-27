@@ -11,7 +11,7 @@ const TaskDetails = () => {
     const history = useHistory();
 
     const handleTasksList = () => {
-        // history.push (`/`) >>>> like i did
+        // history.push (`/`) >>>> how i did
         history.goBack();
     };
 
